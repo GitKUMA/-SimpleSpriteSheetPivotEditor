@@ -97,7 +97,7 @@ SimpleSpriteSheetPivotEditor是一个Unity编辑器扩展工具，专门用于�
 
 ## 📞 联系方式
 
-- GitHub Issues: [提交问题](https://github.com/GitKUMA/SimpleSpriteSheetPivotEditor/issues)
+- bilbili: [[B站](https://space.bilibili.com/31330664?spm_id_from=333.337.0.0)
 - GitHub: [@GitKUMA](https://github.com/GitKUMA)
 
 ## ⭐ 如果这个工具对你有帮助，请给个Star！
