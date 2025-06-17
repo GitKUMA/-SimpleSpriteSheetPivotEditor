@@ -1,9 +1,3 @@
-# SimpleSpriteSheetPivotEditor - 精灵轴心点批量编辑器
-
-[![[附件/readme_file/2d874dda9ea9e96683e9483fa81c08f7_MD5.svg]]](https://unity3d.com/get-unity/download)
-[![[附件/readme_file/0d356e72fcfaae41be0d7adf6fad1c69_MD5.svg]]](https://opensource.org/licenses/MIT)
-[![[附件/readme_file/35a3f2b74a952086d26f6b05d52b24d5_MD5.svg]]](https://github.com/yourusername/SimpleSpriteSheetPivotEditor/releases)
-
 ## 📖 简介
 
 SimpleSpriteSheetPivotEditor是一个Unity编辑器扩展工具，专门用于解决精灵表(Sprite Sheet)中批量设置所有精灵轴心点(Pivot)的问题。这个工具可以帮助您快速统一设置多个精灵的轴心点，极大提高工作效率。
