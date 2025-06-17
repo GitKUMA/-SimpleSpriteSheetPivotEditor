@@ -21,7 +21,7 @@ SimpleSpriteSheetPivotEditor是一个Unity编辑器扩展工具，专门用于�
 2. 打开 `Window > Package Manager`
 3. 点击左上角的 `+` 按钮
 4. 选择 `Add package from git URL`
-5. 输入: `https://github.com/yourusername/SimpleSpriteSheetPivotEditor.git`
+5. 输入: https://github.com/GitKUMA/SimpleSpriteSheetPivotEditor.git
 
 ### 方法2: 下载UnityPackage
 1. 前往 [Releases页面](https://github.com/yourusername/SimpleSpriteSheetPivotEditor/releases)
